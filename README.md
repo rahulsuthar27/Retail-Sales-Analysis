@@ -10,26 +10,47 @@ To explore and analyze retail sales data to identify key business metrics and ge
 🗂 Project Structure
 
 retail-sales-analysis/
+
 ├── data/
+
 │   └── retails.csv
+
 ├── sql_queries/
+
 │   └── business_analysis.sql
+
 ├── python_notebooks/
+
 │   └── retail_analysis.ipynb
+
 ├── powerbi_reports/
+
 │   └── retail_dashboard.pbix
+
 ├── images/
+
 │   ├── top_customers.png
+
 │   ├── sales_trend.png
+
 │   ├── revenue_by_state.png
+
 │   ├── profitable_categories.png
+
 │   ├── avg_discount_by_category.png
+
 │   ├── shipping_mode_impact.png
+
 │   ├── profitable_customer_type.png
+
 │   ├── discount_vs_profit.png
+
 │   ├── high_discount_low_profit.png
+
 │   └── profit_by_priority.png
+
 ├── README.md
+
 
 🧾 Technologies Used
 
@@ -202,7 +223,9 @@ Open Power BI file for visual dashboard
 🙋‍♂️ Author
 
 Your Name : Rahul Suthar
+
 Email : rahulsuthar.2027@gmail.com
+
 GitHub : rahulsuthar27
 
 
