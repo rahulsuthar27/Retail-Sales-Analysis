@@ -201,6 +201,8 @@ Open Power BI file for visual dashboard
 
 🙋‍♂️ Author
 
-Your NameEmail: your.email@example.comGitHub: yourusername
+Your Name : Rahul Suthar
+Email : rahulsuthar.2027@gmail.com
+GitHub : yourusername
 
 
