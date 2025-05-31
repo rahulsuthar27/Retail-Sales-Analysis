@@ -52,9 +52,11 @@ FROM retails
 GROUP BY `Customer Name`
 ORDER BY `Total Purchase Amount` DESC
 LIMIT 10;
+
 ![Top 10 Customers](images/Screenshot 2025-05-29 145537.png)
+
 Visualization:
-d:\Retail-Sale-Analysis\images\Screenshot 2025-05-29 145537.png
+
 2. States with Highest Total Revenue
 
 SQL Query:
