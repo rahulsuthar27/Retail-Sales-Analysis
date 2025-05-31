@@ -167,7 +167,7 @@ SQL Query:
 SELECT `Discount %`, `Profit Margin`
 FROM retails;
 
-![Discount Vs Profit Margin Corelation](images/Screenshot%202025-05-28%20172050.png)
+![Discount Vs Profit Margin Correlation](images/Screenshot%202025-05-28%20172050.png)
 
 Visualization:
 
