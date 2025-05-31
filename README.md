@@ -94,6 +94,8 @@ FROM retails
 GROUP BY `Product Category`
 ORDER BY `Total Profit` DESC;
 
+![Most Profitable Product Category](images/Screenshot%202025-05-28%20171231.png)
+
 Visualization:
 
 
