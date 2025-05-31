@@ -107,6 +107,8 @@ SELECT `Product Category`, AVG(`Discount %`) AS `Average Discount`
 FROM retails
 GROUP BY `Product Category`;
 
+![Average Discount Per Products Category](images/Screenshot%2202025-05-28%20171411.png)
+
 Visualization:
 
 
