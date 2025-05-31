@@ -53,6 +53,7 @@ GROUP BY `Customer Name`
 ORDER BY `Total Purchase Amount` DESC
 LIMIT 10;
 
+
 ![Top 10 Customers](images/Screenshot%202025-05-29%20145537.png)
 
 Visualization:
@@ -66,7 +67,7 @@ FROM retails
 GROUP BY `State`
 ORDER BY `Total Revenue` DESC;
 
-![State With Highest Revenues](images/Screenshot%2025-05-28%170942.png)
+![Top 10 Customers](images/Screenshot%202025-05-29%20145537.png)
 
 Visualization:
 
