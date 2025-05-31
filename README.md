@@ -66,8 +66,9 @@ FROM retails
 GROUP BY `State`
 ORDER BY `Total Revenue` DESC;
 
-Visualization:
 ![State With Highest Revenues](images/Screenshot%2025-05-28%170942.png)
+
+Visualization:
 
 3. Monthly Sales Trends
 
