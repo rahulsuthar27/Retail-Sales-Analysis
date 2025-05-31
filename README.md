@@ -120,6 +120,8 @@ SELECT `Ship Mode`, COUNT(*) AS `Count`, AVG(DATEDIFF(`Ship Date`, `Order Date`)
 FROM retails
 GROUP BY `Ship Mode`;
 
+![Most Use Shipping Mode](images/Screenshot%202025-05-28%20171534.png)
+
 Visualization:
 
 
