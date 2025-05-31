@@ -160,6 +160,8 @@ FROM retails
 GROUP BY `Product Name`
 HAVING `Avg Discount` > 10 AND `Avg Profit` < 20;
 
+![Product Sold At High Discount But Low Profit](images/Screenshot%202025-05-28%20172250.png)
+
 Visualization:
 
 
