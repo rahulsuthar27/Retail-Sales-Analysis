@@ -80,7 +80,7 @@ FROM retails
 GROUP BY `Month`
 ORDER BY `Month`;
 
-![Yearly Sales Trends](images/Screenshot%2025-05-28%171045.png)
+![Yearly Sales Trends](images/Screenshot%202025-05-28%20171045.png)
 
 Visualization:
 
