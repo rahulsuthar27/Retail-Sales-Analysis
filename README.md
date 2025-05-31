@@ -174,6 +174,8 @@ FROM retails
 GROUP BY `Order Priority`
 ORDER BY `Avg Profit Margin` DESC;
 
+![Profit Margin By Order Priority](images/Screenshot%202025-05-28%20172405.png)
+
 Visualization:
 
 
