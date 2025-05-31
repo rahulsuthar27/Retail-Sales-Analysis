@@ -134,6 +134,8 @@ FROM retails
 GROUP BY `Customer Type`
 ORDER BY `Total Profit` DESC;
 
+![Most Profitable Customer](images/Screenshot%202025-05-28%20171702.png)
+
 Visualization:
 
 
