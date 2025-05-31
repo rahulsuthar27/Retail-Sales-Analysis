@@ -67,7 +67,7 @@ FROM retails
 GROUP BY `State`
 ORDER BY `Total Revenue` DESC;
 
-![Top 10 Customers](images/Screenshot%202025-05-29%20145537.png)
+![Yearly Sales Trends](images/Screenshot%202025-05-28%20170942.png)
 
 Visualization:
 
